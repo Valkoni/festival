@@ -1,0 +1,131 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f0f0;
+  color: #222222;
+  margin: 0;
+  padding: 0;
+}
+ 
+main {
+  width: 800px;
+  max-width: 90%;
+  margin: 0 auto;
+  padding: 20px 0;
+}
+ 
+header {
+  background-color: #2b5a9e;
+  color: white;
+  text-align: center;
+  padding: 15px;
+}
+ 
+.logo {
+  margin: 0;
+  font-size: 28px;
+}
+ 
+.slogan {
+  margin: 5px 0 10px 0;
+}
+ 
+nav a {
+  color: white;
+  margin: 0 10px;
+}
+ 
+h1 {
+  color: #2b5a9e;
+  font-size: 32px;
+}
+ 
+h2 {
+  color: #c0392b;
+  font-size: 24px;
+  margin-top: 30px;
+}
+ 
+.intro {
+  text-align: center;
+}
+ 
+.plakat {
+  display: block;
+  width: 100%;
+  max-width: 600px;
+  margin: 20px auto;
+}
+ 
+.dejnosti li {
+  margin-bottom: 5px;
+}
+ 
+.highlight {
+  background-color: #fff3b0;
+  padding: 10px 20px;
+  margin-top: 25px;
+}
+ 
+.program {
+  border-collapse: collapse;
+  width: 100%;
+  background-color: white;
+}
+ 
+.program th {
+  background-color: #2b5a9e;
+  color: white;
+  padding: 8px;
+  text-align: left;
+  border: 1px solid #555555;
+}
+ 
+.program td {
+  border: 1px solid #555555;
+  padding: 8px;
+}
+ 
+.event-title {
+  font-weight: bold;
+}
+ 
+.btn-uchastnik {
+  display: inline-block;
+  background-color: #e67e22;
+  color: white;
+  padding: 10px 20px;
+  font-size: 17px;
+  text-decoration: none;
+  border: none;
+  margin-top: 10px;
+  cursor: pointer;
+}
+ 
+.forma {
+  background-color: white;
+  border: 1px solid #555555;
+  padding: 15px;
+  margin-bottom: 15px;
+}
+ 
+.forma label {
+  display: block;
+  margin-top: 10px;
+  font-weight: bold;
+}
+ 
+.forma input, .forma select, .forma textarea {
+  width: 100%;
+  padding: 6px;
+  margin-top: 3px;
+  font-size: 15px;
+  box-sizing: border-box;
+}
+ 
+footer {
+  background-color: #2b5a9e;
+  color: white;
+  text-align: center;
+  padding: 12px;
+  margin-top: 30px;
+}
